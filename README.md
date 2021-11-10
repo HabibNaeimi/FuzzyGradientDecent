@@ -5,3 +5,9 @@
 - Implementation of the algorithm in MATLAB.
 
 This program was developed as a course project for Fuzzy systems course by Habibollah Naeimi.
+
+### GD1.m
+Main program.
+
+### Gradient Decent Report.pdf
+Report and further details.
