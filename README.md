@@ -1,4 +1,4 @@
-# Fuzzy Gradient Decent
+# Fuzzy Gradient Decent Algorithem
  Fuzzy System Designing Using Gradient Descent Training Algorithm
 - Prediction of Mackey-Glass chaotic time series equation.
 - Primary parameter fixing using online initial parameter choosing method.
