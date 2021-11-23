@@ -4,7 +4,7 @@
 - Primary parameter fixing using online initial parameter choosing method.
 - Implementation of the algorithm in MATLAB.
 
-This program was developed as a course project for Fuzzy systems course by Habibollah Naeimi.
+This program was developed as a course project for the Fuzzy systems course by Habibollah Naeimi.
 
 ### GD1.m
 Main program.
